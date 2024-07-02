@@ -1,2 +1,1 @@
-usuario: pruebasena
-correo electrónico: pruebasena@sena.com
+usuario: pruebasena   correo: pruebasena@sena.com
